@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/Mohitbasnet" target="blank"><img src="https://img.shields.io/twitter/follow/mohitbasnet11?logo=twitter&style=for-the-badge" alt="mohitbasnet11" /></a> </p>
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m a **Backend developer** from Nepal.
 
 - 💬 Ask me about **Django, RestAPI and ORM**
 
