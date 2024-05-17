@@ -8,7 +8,7 @@
 
 - 🌱 I’m a **Backend developer** from Nepal.
 
-- 💬 Ask me about **Django, RestAPI and ORM**
+- 💬 Ask me about **Django, RestAPI, ODOO and ORM**
 
 - 📫 How to reach me **mohitbasnet80@gmail.com**
 
